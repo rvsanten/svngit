@@ -1,5 +1,5 @@
 # Docker container for enabling easy migration from svn to git
-FROM ubuntu:18.04
+FROM ubuntu:bionic
 
 LABEL maintainer="richard@maasoft.com"
 
